@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-10-01T14:36:23.839070Z</date>
+  <millis>1790865383839</millis>
+  <nanos>70000</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:23.843888Z</date>
+  <millis>1790865383843</millis>
+  <nanos>888000</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la méthode void metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:23.844164Z</date>
+  <millis>1790865383844</millis>
+  <nanos>164000</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Apres l'exécution de la méthode void metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:23.844363Z</date>
+  <millis>1790865383844</millis>
+  <nanos>363000</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Durée d'exécution de la méthode 6</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:23.844569Z</date>
+  <millis>1790865383844</millis>
+  <nanos>569000</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.331986Z</date>
+  <millis>1790865389331</millis>
+  <nanos>986000</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.333076Z</date>
+  <millis>1790865389333</millis>
+  <nanos>76000</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la méthode void metier.MetierBanqueImpl.verser(Long, double)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.333389Z</date>
+  <millis>1790865389333</millis>
+  <nanos>389000</nanos>
+  <sequence>7</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Apres l'exécution de la méthode void metier.MetierBanqueImpl.verser(Long, double)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.333612Z</date>
+  <millis>1790865389333</millis>
+  <nanos>612000</nanos>
+  <sequence>8</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Durée d'exécution de la méthode 2</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.333860Z</date>
+  <millis>1790865389333</millis>
+  <nanos>860000</nanos>
+  <sequence>9</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.334097Z</date>
+  <millis>1790865389334</millis>
+  <nanos>97000</nanos>
+  <sequence>10</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.334475Z</date>
+  <millis>1790865389334</millis>
+  <nanos>475000</nanos>
+  <sequence>11</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'exécution de la méthode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.334691Z</date>
+  <millis>1790865389334</millis>
+  <nanos>691000</nanos>
+  <sequence>12</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Apres l'exécution de la méthode Compte metier.MetierBanqueImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.334987Z</date>
+  <millis>1790865389334</millis>
+  <nanos>987000</nanos>
+  <sequence>13</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Durée d'exécution de la méthode 0</message>
+</record>
+<record>
+  <date>2026-10-01T14:36:29.335197Z</date>
+  <millis>1790865389335</millis>
+  <nanos>197000</nanos>
+  <sequence>14</sequence>
+  <logger>aspects.LogginAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulter_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>-----------------------------------------------------------</message>
+</record>
+</log>
